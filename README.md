@@ -1,0 +1,2 @@
+# JPMorgan-Chase-Co.-Quantitative-Research-Virtual-Experience
+A comprehensive quantitative finance project completed as part of the JPMorgan Chase &amp; Co. Quantitative Research Virtual Experience Program on Forage.  This repository demonstrates applied quantitative modeling, financial valuation techniques, credit risk analytics, and data-driven decision frameworks similar to real-world quant research workflows.
